@@ -5,6 +5,14 @@ The Wizard Character Generator generates a random Hero’s Journey character usi
 -------------------
 
 
+
+Update 1.01: 2021-03-07
+
+Errors made in uploading files/folder.  Deleted repository contents and re-loaded correct files/folders.
+
+
+
+
 Initial commit: 2021-03-06
 
 The initial commit for the Wizard Character Generator.

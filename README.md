@@ -4,6 +4,17 @@ The Wizard Character Generator generates a random Hero’s Journey character usi
 
 -------------------
 
+A live version of the Wizard Character Generator is available at:
+
+https://www.oldschooladventures.org/hero/more/classes/wizard/
+
+---------------
+
+
+
+Update 1.02: 2021-03-15
+
+A launch page for Wizard Character Generator has been added.
 
 
 Update 1.01: 2021-03-07
